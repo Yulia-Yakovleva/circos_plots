@@ -1,0 +1,5 @@
+cd circos_plots/shigella_flexneri_1a_228/
+circos -conf ./configurations/circos.conf -dir ./
+
+cd circos_plots/escherichia_coli_c4/
+circos -conf ./configurations/circos.conf -dir ./
