@@ -1,0 +1,5 @@
+cd 4Part
+circos -conf ./Scripts/Configurations_for_Circos/Escherichia_Coli_C4/circos.conf -dir ./
+
+cd 4Part
+circos -conf ./Scripts/Configurations_for_Circos/Shigella_Flexneri_1a_228/circos.conf -dir ./
