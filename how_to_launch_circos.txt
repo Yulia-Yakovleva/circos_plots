@@ -1,3 +1,5 @@
+python additional_scripts/data_for_circos.py -chr *_genomic.fna -gff *_genomic.gff -is *.csv -b blocks_coords.infercars -id GCA_001007915 -gw 5000
+
 cd circos_plots/shigella_flexneri_1a_228/
 circos -conf ./configurations/circos.conf -dir ./
 
